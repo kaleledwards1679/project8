@@ -1,10 +1,13 @@
 h1 {
 color:"green";
 size:"24";
+align:"center"
 }
 
 #days{
-background-color: "yellow";
+  background-color: "yellow";
+  border-style: "solid";
+  font-family: "verdana";
 }
 
 .forecast{
