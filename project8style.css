@@ -5,6 +5,7 @@ align:"center"
 }
 
 .days{
+  border-width: "4px";
   background-color: "yellow";
   border-style: "solid";
   font-family: "verdana";
