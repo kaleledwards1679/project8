@@ -4,10 +4,11 @@ size:"24";
 align:"center"
 }
 
-#days{
+.days{
   background-color: "yellow";
   border-style: "solid";
   font-family: "verdana";
+  
 }
 
 .forecast{
