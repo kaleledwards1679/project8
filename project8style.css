@@ -4,6 +4,9 @@ size:24;
 text-align:center
 }
 
+table {
+  border-collapse: collapse;
+}
 .days{
   border: 4px;
   
@@ -12,6 +15,7 @@ text-align:center
 .forecast{
   border: 4px dotted blue;
   text-align:center;
+  border-colapse
 }
 
 .blue{
